@@ -1,4 +1,4 @@
-# Speech_Recognization
+# Speech_Recognition
 
 A new Flutter project.
 
